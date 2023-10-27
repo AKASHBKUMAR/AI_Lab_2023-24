@@ -45,4 +45,4 @@
 
 
 ### Result:
-    Thus the truth table of circuit verified sucessfully.
+    Thus, the truth table of circuit verified sucessfully.

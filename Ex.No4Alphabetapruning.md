@@ -2,7 +2,7 @@
 ### DATE:                                                                            
 ### REGISTER NUMBER : 212221040011 
 ### AIM: 
-    Write a Alpha beta pruning algorithm to find the optimal value of MAX Player from the given graph.
+    To write a Alpha beta pruning algorithm to find the optimal value of MAX Player from the given graph.
 ### Steps:
     1. Start the program
     
@@ -56,4 +56,4 @@
 
 
 ### Result:
-    Thus the best score of max player was found using Alpha Beta Pruning.
+    Thus, the best score of max player was found using Alpha Beta Pruning.

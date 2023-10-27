@@ -32,4 +32,4 @@
 
 
 ### Result:
-Thus the factorial of given number was found by logic programming. 
+    Thus the factorial of given number was found by logic programming. 

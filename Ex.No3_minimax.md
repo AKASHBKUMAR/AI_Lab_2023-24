@@ -2,7 +2,7 @@
 ### DATE:                                                                            
 ### REGISTER NUMBER : 212221040011
 ### AIM: 
-    Write a mini-max search algorithm to find the optimal value of MAX Player from the given graph.
+    To write a mini-max search algorithm to find the optimal value of MAX Player from the given graph.
 ### Algorithm:
     1. Start the program
     2. import the math package
@@ -43,4 +43,4 @@
 
 
 ### Result:
-    Thus the optimum value of max player was found using minimax search.
+    Thus, the optimum value of max player was found using minimax search.

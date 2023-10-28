@@ -36,6 +36,7 @@
 
 ### Output:
 
+![Experiment - 06](https://github.com/AKASHBKUMAR/AI_Lab_2023-24/assets/113763258/ea0b8b03-8cca-4850-a0b8-f9cedb9d9587)
 
 
 ### Result:

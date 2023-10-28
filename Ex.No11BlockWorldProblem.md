@@ -3,6 +3,7 @@
 ### REGISTER NUMBER : 212221040011
 ### AIM: 
      To find the sequence of plan for Block word problem using PDDL  
+     
 ###  Algorithm:
      Step 1 :  Start the program.
      
@@ -56,8 +57,9 @@
      :effect (and (holding ?ob) (clear ?underob) 
      (not (on ?ob ?underob)) (not (clear ?ob)) (not (arm-empty)))))
 
+### Input 
 
-### PROBLEM.PDDL
+### PROBLEM-1.PDDL
       
      (define (problem pb1) 
      (:domain blocksworld) 
@@ -65,11 +67,23 @@
      (:init (on-table a) (on-table b)  (clear a)  (clear b) (arm-empty)) 
      (:goal (and (on a b))))     
 
-### Input 
+### PROBLEM-2.PDDL
+
+     (define(problem pb3) 
+     (:domain blocksworld) 
+     (:objects a b c) 
+     (:init (on-table a) (on-table b)   (on-table c)   
+     (clear a)  (clear b) (clear c) (arm-empty)) 
+     (:goal (and (on a b) (on b c))))
 
 ### Output/Plan:
 
+### PROBLEM-1.PDDL
+![Experiment - 11](https://github.com/AKASHBKUMAR/AI_Lab_2023-24/assets/113763258/a3127337-087c-4a6c-870f-98403851f942)
+
+### PROBLEM-2.PDDL
+![Experiment - 11 - 2](https://github.com/AKASHBKUMAR/AI_Lab_2023-24/assets/113763258/15854214-5d8d-4994-9d1e-793690d9b64e)
 
 
 ### Result:
-Thus the plan was found for the initial and goal state of block world problem.
+     Thus, the plan was found for the initial and goal state of block world problem.

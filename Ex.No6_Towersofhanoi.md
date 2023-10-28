@@ -5,7 +5,7 @@
 
 ### AIM: 
 
-    To  write  a logic program  to solve Towers of Hanoi problem  using SWI-PROLOG. 
+    To  write  a logic program  to solve Towers of Hanoi problem using SWI-PROLOG. 
     
 ### ALGORITHM:
 

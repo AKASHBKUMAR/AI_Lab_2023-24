@@ -40,7 +40,7 @@
     dfs(visited, graph, '5')
 
 ### Output:
-
+![Experiment - 02](https://github.com/AKASHBKUMAR/AI_Lab_2023-24/assets/113763258/e600e58e-e86d-47b3-92e4-512721595a23)
 
 
 ### Result:

@@ -29,6 +29,7 @@
 
 ### Output:
 
+![Experiment - 05](https://github.com/AKASHBKUMAR/AI_Lab_2023-24/assets/113763258/cf4cc2f4-3af5-4464-9229-f89faa7a0b74)
 
 
 ### Result:

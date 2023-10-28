@@ -1,9 +1,10 @@
-# Ex.No: 1  Implementation of Breadth First Search 
+# Ex.No: 1  IMPLEMENTATION OF BREADTH FIRST SEARCH
 ### DATE:                                                                            
 ### REGISTER NUMBER : 212221040011
 ### AIM: 
     To write a python program to implement Breadth first Search. 
-### Algorithm:
+### ALGORITHM:
+
     1. Start the program.
     
     2. Create the graph by using adjacency list representation.
@@ -20,7 +21,7 @@
     
     8.   Stop the program.
     
-### Program:
+### PROGRAM:
 
     graph = {
      '5' : ['3','7'],
@@ -46,10 +47,9 @@
     print("Following is the Breadth-First Search")
     bfs(visited, graph, '5') # function calling
 
-### Output:
+### OUTPUT:
+
 ![Experiment - 01](https://github.com/AKASHBKUMAR/AI_Lab_2023-24/assets/113763258/fe1e8707-820f-4d48-a504-d1b100ff8308)
 
-
-
-### Result:
+### RESULT:
     Thus, the breadth first search order was found sucessfully.

@@ -50,6 +50,9 @@
 
 ### Output:
 
+![Experiment - 10-1](https://github.com/AKASHBKUMAR/AI_Lab_2023-24/assets/113763258/5f338f67-a7b7-4647-9355-86171d925b1a)
+
+
 ### Task 2:
     Consider the following facts and represent them in predicate form: 
     
@@ -73,6 +76,8 @@
     course(bk301,dept(havefun)).
 
 ### Output:
+
+![Experiment - 10-2](https://github.com/AKASHBKUMAR/AI_Lab_2023-24/assets/113763258/f98fd0cb-72ea-4744-acce-d2edec17943b)
 
 ### Task 3:
     Consider the statement,
@@ -100,6 +105,9 @@
     american(west).
 
 ### Output:
+
+![Experiment - 10-3](https://github.com/AKASHBKUMAR/AI_Lab_2023-24/assets/113763258/04a7998f-1c35-45cc-a854-cc938de9d5c7)
+
 
 ### Result:
     Thus the prolog programs were executed successfully and the answer of query was found.

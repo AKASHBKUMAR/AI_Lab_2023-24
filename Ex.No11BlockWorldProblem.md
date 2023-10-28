@@ -1,10 +1,14 @@
-# Ex.No: 11  Planning –  Block World Problem 
+# Ex.No: 11  PLANNING –  BLOCK WORLD PROBLEM
+
 ### DATE:                                                                            
+
 ### REGISTER NUMBER : 212221040011
+
 ### AIM: 
-     To find the sequence of plan for Block word problem using PDDL  
+     To find the sequence of plan for Block World problem using PDDL  
      
-###  Algorithm:
+###  ALGORITHM:
+
      Step 1 :  Start the program.
      
      Step 2 : Create a domain for Block world Problem.
@@ -25,7 +29,7 @@
      
      Step 10 : Obtain the plan for given problem.
      
-### Program:
+### PROGRAM:
 
 ### BLOCK WORLD.PDDL
 
@@ -57,7 +61,7 @@
      :effect (and (holding ?ob) (clear ?underob) 
      (not (on ?ob ?underob)) (not (clear ?ob)) (not (arm-empty)))))
 
-### Input 
+### INPUT
 
 ### PROBLEM-1.PDDL
       
@@ -76,7 +80,7 @@
      (clear a)  (clear b) (clear c) (arm-empty)) 
      (:goal (and (on a b) (on b c))))
 
-### Output/Plan:
+### OUTPUT/PLAN:
 
 ### PROBLEM-1.PDDL
 ![Experiment - 11](https://github.com/AKASHBKUMAR/AI_Lab_2023-24/assets/113763258/a3127337-087c-4a6c-870f-98403851f942)
@@ -85,5 +89,5 @@
 ![Experiment - 11 - 2](https://github.com/AKASHBKUMAR/AI_Lab_2023-24/assets/113763258/15854214-5d8d-4994-9d1e-793690d9b64e)
 
 
-### Result:
-     Thus, the plan was found for the initial and goal state of block world problem.
+### RESULT:
+     Thus, the plan was found for the initial and goal state of Block World problem.

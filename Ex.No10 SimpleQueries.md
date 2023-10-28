@@ -1,9 +1,14 @@
-# Ex.No: 10  Logic Programming –  Simple queries from facts and rules
+# Ex.No: 10  LOGIC PROGRAMMING –  SIMPLE QUERIES FROM FACTS AND RULES
+
 ### DATE:                                                                            
+
 ### REGISTER NUMBER : 212221040011
+
 ### AIM: 
+
     To write a prolog program to find the answer of query. 
-###  Algorithm:
+    
+###  ALGORITHM:
 
     Step 1: Start the program.
     
@@ -19,8 +24,8 @@
     
     Step 8: Stop the program.
     
-### Program:
-  ### Task 1:
+### PROGRAM:
+  ### TASK - 1:
     Construct the FOL representation for the following sentences.
   
      1. John likes all kinds of food.
@@ -35,7 +40,7 @@
      
     Convert into clause form and Prove that John like Apple by using Prolog.
      
-### Program:
+### PROGRAM:
 
     likes(john,X):- 
     food(X). 
@@ -48,12 +53,12 @@
     food(chicken). 
     food(peanuts). 
 
-### Output:
+### OUTPUT:
 
 ![Experiment - 10-1](https://github.com/AKASHBKUMAR/AI_Lab_2023-24/assets/113763258/5f338f67-a7b7-4647-9355-86171d925b1a)
 
 
-### Task 2:
+### TASK - 2:
     Consider the following facts and represent them in predicate form: 
     
     1. Steve likes easy courses.
@@ -75,17 +80,17 @@
     course(X,dept(havefun)). 
     course(bk301,dept(havefun)).
 
-### Output:
+### OUTPUT:
 
 ![Experiment - 10-2](https://github.com/AKASHBKUMAR/AI_Lab_2023-24/assets/113763258/f98fd0cb-72ea-4744-acce-d2edec17943b)
 
-### Task 3:
+### TASK - 3:
     Consider the statement,
     
     “This is a crime for an American to sell weapons to hostile nations. The Nano , enemy of America has some missiles and its missiles were sold it by Colonal West who is an American”.
     
     Convert to Clause form and prove west is criminal by using Prolog.
-### Program:
+### PROGRAM:
 
     criminal(X):- 
     american(X), 
@@ -104,10 +109,10 @@
     enemy(nano,america). 
     american(west).
 
-### Output:
+### OUTPUT:
 
 ![Experiment - 10-3](https://github.com/AKASHBKUMAR/AI_Lab_2023-24/assets/113763258/04a7998f-1c35-45cc-a854-cc938de9d5c7)
 
 
-### Result:
-    Thus the prolog programs were executed successfully and the answer of query was found.
+### RESULT:
+    Thus, the prolog programs were executed successfully and the answer of query was found.

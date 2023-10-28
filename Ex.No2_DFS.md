@@ -1,9 +1,12 @@
-# Ex.No: 2  Implementation of Depth First Search
+# Ex.No: 2  IMPLEMENTATION OF DEPTH FIRST SEARCH
 ### DATE:                                                                            
 ### REGISTER NUMBER : 212221040011
+
 ### AIM: 
     To write a python program to implement Depth first Search. 
-### Algorithm:
+    
+### ALGORITHM:
+
     1. Start the program.
     
     2. Create the graph by using adjacency list representation.
@@ -18,7 +21,7 @@
     
     7. Stop the program.
     
-### Program:
+### PROGRAM:
     
     graph = {
      '5' : ['3','7'],
@@ -39,9 +42,10 @@
     print("Following is the Depth-First Search")
     dfs(visited, graph, '5')
 
-### Output:
+### OUTPUT:
+
 ![Experiment - 02](https://github.com/AKASHBKUMAR/AI_Lab_2023-24/assets/113763258/e600e58e-e86d-47b3-92e4-512721595a23)
 
 
-### Result:
+### RESULT:
     Thus, the depth first search order was found sucessfully.

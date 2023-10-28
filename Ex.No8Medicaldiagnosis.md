@@ -55,6 +55,8 @@
 
 ### Output:
 
+![Experiment - 08](https://github.com/AKASHBKUMAR/AI_Lab_2023-24/assets/113763258/6e80cb03-847b-4b92-8fba-ff2707f654f7)
+
 
 
 ### Result:

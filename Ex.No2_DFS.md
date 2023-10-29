@@ -48,4 +48,4 @@
 
 
 ### RESULT:
-    Thus, the depth first search order was found sucessfully.
+    Thus, the depth first search order was found successfully.

@@ -52,4 +52,4 @@
 ![Experiment - 01](https://github.com/AKASHBKUMAR/AI_Lab_2023-24/assets/113763258/fe1e8707-820f-4d48-a504-d1b100ff8308)
 
 ### RESULT:
-    Thus, the breadth first search order was found sucessfully.
+    Thus, the breadth first search order was found successfully.

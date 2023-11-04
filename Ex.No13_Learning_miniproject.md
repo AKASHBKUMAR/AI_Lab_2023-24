@@ -3,7 +3,7 @@
 ### REGISTER NUMBER : 212221040011
 
 ### AIM: 
-    To write a program to train the classifier for Daibetes Prediction. 
+    To write a program to train the classifier for Diabetes Prediction. 
 ###  Algorithm:
     1.Start the program.
     
